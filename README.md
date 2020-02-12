@@ -1,4 +1,4 @@
-<p align="center"> 
+<p align="center">
 <img width="300" height="300" src="static/r4devlogo.png">
 </p>
 
@@ -14,6 +14,7 @@ The general idea is to `wrangle` data and `plot` figures emphasizing topics such
 * Food and agriculture
 * Violence
 * Democracy
+* Justice
 * Human Rights
 * Poverty and economic development
 * Environment
@@ -23,7 +24,7 @@ Following the spirit of the `Tidy Tuesday` project, we will post a raw dataset f
 The datasets will be posted on the datasets page on Friday.
 
 Below there are some notes that come from the Tidy Tuesday project that we think are important to consider when taking part of this project:
- 
+
 > 1. The data set comes from the source article or the source that the article credits. Be mindful that the data is what it is and Tidy Tuesday is designed to help you practice data visualization and basic data wrangling in R.
 > 2. Again, the data is what it is! You are welcome to explore beyond the provided dataset, but the data is provided as a "toy" dataset to practice techniques on.
 > 3. This is NOT about criticizing the original article or graph. Real people made the graphs, collected or acquired the data! Focus on the provided dataset, learning, and improving your techniques in R.
@@ -67,12 +68,14 @@ The Tidy Tuesday project compiled a list of very useful resources from data mana
 | [:link:](https://docs.google.com/spreadsheets/d/1wZhPLMCHKJvwOkP4juclhjFgqIY8fQFMemwKL2c64vk/edit#gid=0) | Data is Plural collection |
 | [:link:](https://github.com/BuzzFeedNews/everything/blob/master/README.md) | BuzzFeedNews GitHub |
 | [:link:](https://github.com/theeconomist/) | The Economist GitHub |
-| [:link:](https://cran.r-project.org/web/packages/fivethirtyeight/fivethirtyeight.pdf) | The `fivethirtyeight` data package 
+| [:link:](https://cran.r-project.org/web/packages/fivethirtyeight/fivethirtyeight.pdf) | The `fivethirtyeight` data package
 | [:link:](https://github.com/TheUpshot) | The Upshot by NY Times |
 | [:link:](https://github.com/baltimore-sun-data) | The Baltimore Sun Data Desk |
 | [:link:](https://github.com/datadesk) | The LA Times Data Desk |
 | [:link:](https://github.com/OpenNewsLabs/news-graphics-team) | Open News Labs |
 | [:link:](https://t.co/BMvJO2dT1o) | BBC Data Journalism team |
+|
+| [:link:](https://www.doingbusiness.org/en/data) | WB Doing Business Data |
 
 ## Data Viz/Science Books
 
